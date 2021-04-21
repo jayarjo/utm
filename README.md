@@ -7,6 +7,13 @@ Bidirectional UTM-WGS84 converter for JavaScript.
 
 Translated directly from [Tobias Bieniek's implementation in Python](https://github.com/Turbo87/utm).
 
+### Disclaimer:
+
+This is a fork of [utm](https://www.npmjs.com/package/utm) library by Timothy Gu, which hasn't been updated
+in four years already and contains serious bug that might shift coordinates in some case by 20-30cm when 
+converting with `toLatLng`. Bug has been fixed in the original implementation in Python, but never backported 
+to JS.
+
 ## Usage
 
 ```js

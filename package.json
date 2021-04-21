@@ -1,6 +1,6 @@
 {
-  "name": "utm",
-  "version": "1.1.1",
+  "name": "@jayarjo/utm",
+  "version": "1.1.2",
   "description": "Bidirectional UTM-WGS84 converter",
   "main": "index.js",
   "module": "index.es.js",
