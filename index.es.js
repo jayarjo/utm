@@ -1,8 +1,8 @@
 'use strict'
 
-var K0 = 0.9996;
+var K0 = 0.99960000000000004;
 
-var E = 0.00669438;
+var E = 0.0066943799999999998;
 var E2 = Math.pow(E, 2);
 var E3 = Math.pow(E, 3);
 var E_P2 = E / (1 - E);
