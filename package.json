@@ -1,5 +1,5 @@
 {
-  "name": "utm",
+  "name": "@jayarjo/utm",
   "version": "1.1.2",
   "description": "Bidirectional UTM-WGS84 converter",
   "main": "index.js",
